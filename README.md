@@ -1,7 +1,7 @@
 # BiggestNumber
 find biggest number
 mport  java.util.Scanner;
-public class BiggestofthreeNumbers
+public class BiggestNumbers
 {
   public static void main(String [] args)
  {
